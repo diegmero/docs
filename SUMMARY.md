@@ -4,10 +4,10 @@
 
 ## About us
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
+* [🚀 Instalación CWP](about-us/instalacion-cwp/README.md)
+  * [Vision](about-us/instalacion-cwp/vision.md)
+  * [Mission](about-us/instalacion-cwp/mission.md)
+  * [Focus](about-us/instalacion-cwp/focus.md)
 * [💖 Values](about-us/values.md)
 
 ## Team
