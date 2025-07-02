@@ -1,4 +1,4 @@
-# Mission
+# Configuraciones
 
 ## Our Mission
 

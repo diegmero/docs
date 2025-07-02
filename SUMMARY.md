@@ -4,10 +4,10 @@
 
 ## About us
 
-* [🚀 Instalación CWP](about-us/instalacion-cwp/README.md)
-  * [Vision](about-us/instalacion-cwp/vision.md)
-  * [Mission](about-us/instalacion-cwp/mission.md)
-  * [Focus](about-us/instalacion-cwp/focus.md)
+* [🚀 CWP PANEL](about-us/cwp-panel/README.md)
+  * [Instalación](about-us/cwp-panel/instalacion.md)
+  * [Configuraciones](about-us/cwp-panel/configuraciones.md)
+  * [Recomendaciones](about-us/cwp-panel/recomendaciones.md)
 * [💖 Values](about-us/values.md)
 
 ## Team
